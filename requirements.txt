@@ -1,0 +1,8 @@
+# installing necessary packages in my_env
+ youtube-transcript-api==1.2.1
+ faiss-cpu==1.8.0
+ langchain==0.2.6 | tail -n 1
+ langchain-community==0.2.6 | tail -n 1
+ ibm-watsonx-ai==1.0.10 | tail -n 1
+ langchain_ibm==0.1.8 | tail -n 1
+ gradio==4.44.1 | tail -n 1
